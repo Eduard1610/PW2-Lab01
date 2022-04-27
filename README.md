@@ -1,4 +1,4 @@
-<h1> align="center">Hola ??, Soy Eduardo Franshua Durand Obando</h1>
+<h1 align="center">Hola , Soy Eduardo Franshua Durand Obando</h1>
 <h3 align="center">Este es mi laboratorio numero 1</h3>
 
 -Mi correo electronico es: **edurando@unsa.edu.pe**
